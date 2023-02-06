@@ -1,4 +1,3 @@
 ### ThomasFront 👋
 
-- ⚡ Moje umiejętności techniczne - React, Typescript, JavaScript, HTML, CSS, SCSS, MUI, Bootstrap, Git, GitHub, Gulp, RWD
-- 🌱 Aktualnie uczę się Node.js - (Express, MongoDB)
+- ⚡ TECHNOLOGIES AND TOOLS - React, NextJS, Typescript, JavaScript, HTML, CSS, SCSS, MUI, Tailwind,Bootstrap, Git, GitHub, Gulp, RWD
