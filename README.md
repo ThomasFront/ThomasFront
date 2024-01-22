@@ -8,9 +8,10 @@
 - Jest/Vitest,
 - React Testing Library,
 - Firebase,
+- Material UI,
+- Styled components/CSS Modules,
+- Git,
+- Github/Gitlab,
 - HTML,
 - CSS,
-- SCSS,
-- Material UI,
-- Git
-- Github/Gitlab
+- SCSS
