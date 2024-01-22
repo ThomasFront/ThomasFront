@@ -3,7 +3,7 @@
 ⚡ MAIN TECHNOLOGIES AND TOOLS
 - React,
 - NextJS,
-- Typescript,
+- TypeScript,
 - JavaScript,
 - Jest/Vitest,
 - React Testing Library,
