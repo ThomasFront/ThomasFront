@@ -1,3 +1,3 @@
 ### ThomasFront 👋
 
-- ⚡ TECHNOLOGIES AND TOOLS - React, NextJS, Typescript, JavaScript, Firebase, Strapi, HTML, CSS, SCSS, MUI, Tailwind, Bootstrap, Git, GitHub, Gulp, RWD
+- ⚡ TECHNOLOGIES AND TOOLS - React, NextJS, Typescript, JavaScript, Jest, React Testing Library, Firebase, HTML, CSS, SCSS, Material UI, Git
