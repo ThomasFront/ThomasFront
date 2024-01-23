@@ -8,11 +8,11 @@
 - React Query,
 - Jest/Vitest,
 - React Testing Library,
-- Firebase,
 - Material UI,
 - Styled components/CSS Modules,
 - Git,
 - Github/Gitlab,
+- Firebase,
 - HTML,
 - CSS,
 - SCSS
