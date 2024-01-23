@@ -5,6 +5,7 @@
 - NextJS,
 - TypeScript,
 - JavaScript,
+- React Query,
 - Jest/Vitest,
 - React Testing Library,
 - Firebase,
