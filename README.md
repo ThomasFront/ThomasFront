@@ -1,6 +1,9 @@
 ### ThomasFront 👋
 
 ⚡ MAIN TECHNOLOGIES AND TOOLS
+
+## Frontend
+
 - React,
 - NextJS,
 - TypeScript,
@@ -16,3 +19,8 @@
 - HTML,
 - CSS,
 - SCSS
+
+## Backend
+
+- Laravel,
+- PHP
