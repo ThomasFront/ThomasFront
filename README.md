@@ -1,5 +1,3 @@
-### ThomasFront 👋
-
 ⚡ MAIN TECHNOLOGIES AND TOOLS
 
 ## Frontend
